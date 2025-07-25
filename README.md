@@ -1,7 +1,12 @@
-## Hi there 👋
+👋 About Me
 
-# 💫 About Me:
-### 👋 Hi, I'm Tahasin Islam<br><br>I'm an aspiring Data Scientist & ML Engineer focused on building real-world, production-ready machine learning systems that combine data engineering, deep learning, and modern deployment practices.<br><br> 🧠 Skilled in **Machine Learning, Deep Learning, and NLP**, with practical projects using `pandas`, `NumPy`, `scikit-learn`, `TensorFlow`, and `transformers`<br> 📚 Built and deployed a **PDF-based RAG chatbot** using **LangGraph** with memory, state, and chaining to answer queries from books/documents intelligently<br> 🗃️ Experienced with **MongoDB**, **Redis**, and **SQL** for data storage, caching, and pipeline design<br> 🧪 Worked with large e-commerce datasets (customers, orders, reviews, products) to generate insights and build hybrid recommender systems<br> 🚀 Familiar with **Docker**, **CI/CD pipelines**, and deploying models via **Flask + Render**<br> 🔁 Knowledge of **MLOps**, version control, and collaborative dev practices (Git, GitHub Actions)<br><br>> I'm currently focused on advancing my skills in agent-based AI systems, real-time applications, and deploying scalable ML solutions.<br><br>📬 Let’s collaborate or connect!<br>
+I'm Tahasin Islam — an AI Engineer, NLP Specialist, and passionate problem-solver focused on building scalable, production-grade machine learning systems.
+
+My journey blends deep learning, natural language processing, and software engineering to build real-world AI products. With experience across startups and open-source ecosystems, I’ve worked on projects involving autonomous agents, RAG systems, fraud detection pipelines, and recommendation engines.
+
+I take pride in writing modular, clean code and designing systems that are not just functional but maintainable and efficient. Whether it's fine-tuning LLMs, deploying ML models, or building robust data pipelines, I enjoy turning complex problems into elegant solutions.
+
+I’m always exploring the intersection of AI research and practical engineering — aiming to contribute to impactful, cutting-edge work that bridges theory and production.
 
 
 ## 🌐 Socials:
