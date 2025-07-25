@@ -1,12 +1,12 @@
 👋 About Me
 
-I'm Tahasin Islam — an aspiring Data Scientist/ML Engineer, NLP Specialist, and passionate problem-solver focused on building scalable, production-grade machine learning systems.
+I'm Tahasin Islam — aspiring Data Scientist and Machine Learning Engineer. I focus on solving real-world problems using machine learning, natural language processing, and data-driven systems.
 
-My journey blends deep learning, natural language processing, and software engineering to build real-world AI products. With experience across startups and open-source ecosystems, I’ve worked on projects involving autonomous agents, RAG systems, fraud detection pipelines, and recommendation engines.
+My work includes building end-to-end ML pipelines, deploying models, and working with tools like Python, SQL, TensorFlow, LangChain, and Docker. I'm actively building production-ready projects involving LLMs, RAG, and agent-based workflows.
 
-I take pride in writing modular, clean code and designing systems that are not just functional but maintainable and efficient. Whether it's fine-tuning LLMs, deploying ML models, or building robust data pipelines, I enjoy turning complex problems into elegant solutions.
+I care about clean code, reproducible experiments, and scalable architecture. I’m currently improving my skills in ML system design, MLOps, and real-time AI applications.
 
-I’m always exploring the intersection of AI research and practical engineering — aiming to contribute to impactful, cutting-edge work that bridges theory and production.
+Always learning. Always building.
 
 
 ## 🌐 Socials:
