@@ -1,6 +1,6 @@
 👋 About Me
 
-I'm Tahasin Islam — aspiring Data Scientist and Machine Learning Engineer. I focus on solving real-world problems using machine learning, natural language processing, and data-driven systems.
+I'm Tahasin Islam — An Data Scientist and Machine Learning Engineer. I focus on solving real-world problems using machine learning, natural language processing, and data-driven systems.
 
 My work includes building end-to-end ML pipelines, deploying models, and working with tools like Python, SQL, TensorFlow, LangChain, and Docker. I'm actively building production-ready projects involving LLMs, RAG, and agent-based workflows.
 
